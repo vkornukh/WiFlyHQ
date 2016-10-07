@@ -75,7 +75,7 @@
 #include <IPAddress.h>
 
 #if (ARDUINO >= 103)
-typedef const char PROGMEM prog_char;
+// typedef const char PROGMEM prog_char;
 #endif
 
 /* IP Protocol bits */
